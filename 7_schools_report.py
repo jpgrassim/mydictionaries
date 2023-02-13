@@ -17,3 +17,5 @@ Display report for all universities that have a total price for in-state student
 
 
 """
+
+print('Argentina campeon del mundo')
